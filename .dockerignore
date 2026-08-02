@@ -1,0 +1,12 @@
+.git
+.idea
+.vscode
+.DS_Store
+var/cache/*
+var/log/*
+var/sessions/*
+vendor
+docs
+*.md
+.env.local
+.env.*.local
