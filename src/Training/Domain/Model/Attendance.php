@@ -52,7 +52,6 @@ final class Attendance
             return false;
         }
         $this->debitApplied = false;
-
         return true;
     }
 }
